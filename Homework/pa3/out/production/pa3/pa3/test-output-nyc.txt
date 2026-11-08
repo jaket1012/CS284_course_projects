@@ -1,0 +1,10 @@
+Distance from Manhattan to Brooklyn: 35.000000
+Locations Along Path:
+	Manhattan
+	Queens
+	Brooklyn
+Distance from Queens to Bronx: 20.000000
+Locations Along Path:
+	Queens
+	Bronx
+There is no path from Staten Island to Bronx!

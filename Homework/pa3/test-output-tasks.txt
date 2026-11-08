@@ -1,0 +1,16 @@
+Distance from Arts and Sciences Centre to City Center: 11.000000
+Locations Along Path:
+	Arts and Sciences Centre
+	Department of Computer Science
+	City Center
+Distance from Entrance to Tunnel to Fairgrounds: 45.000000
+Locations Along Path:
+	Entrance to Tunnel
+	City Center
+	Fairgrounds
+Distance from Arts and Sciences Centre to Entrance to Tunnel: 31.000000
+Locations Along Path:
+	Arts and Sciences Centre
+	Department of Computer Science
+	City Center
+	Entrance to Tunnel
